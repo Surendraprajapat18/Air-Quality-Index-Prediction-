@@ -109,4 +109,4 @@ This project is dedicated to forecasting the Air Quality Index (AQI) through adv
    'rfr': 0.8747495088245665}
     ```
 
-**Note: The provided code snippets are illustrative and should be adapted based on the dataset's structure and requirements.**
+**Note: The provided code snippets are illustrative and should be adapted based on the dataset's structure and requirements and this is Capstone Project.**
