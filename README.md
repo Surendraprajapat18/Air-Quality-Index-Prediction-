@@ -2,6 +2,7 @@
 
 ## Introduction:
 This project is dedicated to forecasting the Air Quality Index (AQI) through advanced machine learning techniques. Leveraging the City Day dataset, we explore a range of air quality-related features to enhance predictions and contribute to effective air quality management.
+Project URL:  [![Streamlit](https://img.shields.io/badge/Streamlit-%230077B5.svg?logo=streamlit&logoColor=white)](https://aqi-predict-app.onrender.com/)
 
 ```python
 # AQI Features: 
