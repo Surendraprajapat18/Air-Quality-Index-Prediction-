@@ -7,6 +7,7 @@ Project URL:  [![Streamlit](https://img.shields.io/badge/Streamlit-%230077B5.svg
 
 ```python
 # AQI Features: 
+# City
 # PM2.5: Particulate Matter 2.5 micrometers or smaller
 # PM10: Particulate Matter 10 micrometers or smaller
 # NO2: Nitrogen Dioxide
