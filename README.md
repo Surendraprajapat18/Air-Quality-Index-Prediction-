@@ -9,15 +9,10 @@ Project URL:  [![Streamlit](https://img.shields.io/badge/Streamlit-%230077B5.svg
 # AQI Features: 
 # PM2.5: Particulate Matter 2.5 micrometers or smaller
 # PM10: Particulate Matter 10 micrometers or smaller
-# NO: Nitric Oxide
 # NO2: Nitrogen Dioxide
-# NOx: Nitrogen Oxides (NO + NO2)
-# NH3: Ammonia
 # CO: Carbon Monoxide
 # SO2: Sulfur Dioxide
 # O3: Ozone
-# Benzene: Benzene, a volatile organic compound (VOC)
-# Toluene: Toluene, a volatile organic compound (VOC)
 ```
 
 ## Project Flow:
