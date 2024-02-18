@@ -17,6 +17,8 @@ Project URL:  [![Streamlit](https://img.shields.io/badge/Streamlit-%230077B5.svg
 ```
 
 ## Project Flow:
+![AQI_Flow](https://github.com/Surendraprajapat18/Air-Quality-Index-Prediction-/assets/97840357/c7450772-cc5b-49a2-94ce-eada346a2694)
+
 
 ### Data Loading:
 1. **Load the dataset:**
