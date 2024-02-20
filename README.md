@@ -39,7 +39,11 @@ Project URL:  [![Streamlit](https://img.shields.io/badge/Streamlit-%230077B5.svg
 ![image](https://github.com/Surendraprajapat18/Air-Quality-Index-Prediction-/assets/97840357/63ad1e9f-0d43-4791-bbd5-b2c5dba45d23)
 
 2. **Feature Correlation:**
-   ![image](https://github.com/Surendraprajapat18/Air-Quality-Index-Prediction-/assets/97840357/f6ea7524-aa6e-4f9f-bc40-af8a00855846)
+   ![image](https://github.com/Surendraprajapat18/Air-Quality-Index-Prediction-/assets/97840357/de24906c-ba1b-4764-9a6c-a660f4bfce2e)
+
+3. **City wise distribution**
+   ![image](https://github.com/Surendraprajapat18/Air-Quality-Index-Prediction-/assets/97840357/7b17339f-4498-4955-9c2d-6194271ae0dd)
+
 
 
 ### Data Preprocessing:
